@@ -1,2 +1,2 @@
-# Simplem_Mess
+# Simple_Mess
 MultiPlayerFPS game created in Unity.
